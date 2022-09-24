@@ -37,9 +37,22 @@ See
 There will be several
 
 ## Major Assignments
-- A
-- B
-- C
+- Write an small essay based on readings from the three professors
+- Participate in a forum in which you will be the moderator
+- Create a digital protfolio in which you will collect all your readings and your experiences in this class
 
-#Weekly Schedule
+# Weekly Schedule
+
+## Week 1
+- Reading 1
+- Reading 2
+- Reading 3
+- video 1
+
+## Week 2
+- Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+
 
