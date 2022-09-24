@@ -60,8 +60,15 @@ There will be several
 ## Week 3
 - Reading 1
 - Video 1
-- Reading 3
+- Reading 3[ˆ2]
 - Video 2 [ˆ1]
 
 [ˆ1]: This video is available in the library
+[ˆ2]: New reading
 
+# Additional instructions
+----
+...Please come home and be ready. Use the following formula: 
+```x = y 
+var(love)
+love = 1 + 1```
