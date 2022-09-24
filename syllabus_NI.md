@@ -1,14 +1,16 @@
 # CMLT 130: The National Imagination
+---
 
 ### *Spring 2023*
 ### *Estabrook Hall 414*
 ### *M-R 1:25pm-2:40pm*
 
 ## Instructors:
+------
 
-- Dr. Alice Valentine
-- Dr. Elizabeth Gale
-- Dr. Eduard Arriaga
+- Dr. Alice `Valentine`
+- Dr. Elizabeth `Gale`
+- Dr. Eduard `Arriaga`
 
 
 # Overview
@@ -55,4 +57,11 @@ There will be several
 - Reading 3
 - Reading 4
 
+## Week 3
+- Reading 1
+- Video 1
+- Reading 3
+- Video 2 [ˆ1]
+
+[ˆ1]: This video is available in the library
 
