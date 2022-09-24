@@ -15,7 +15,7 @@
 
 # Overview
 
-The concept of nation and language have been connected since its inception. In fact, some scholars argue that the imagined communit we call nation is only connected by language in the form of media: news papers, news shows and radio. In this course we will discuss the concept of nation and its connection with language as both a system of sounds and symbols, and a set of creative, communicative and organizing skills that allow for human communication and interaction. Likewise, we will take a comparative approach as we will be going through diverse cultures and nations in regions such as Asia (with Japan), the Phrancophone world (Europe, Africa and the Caribbean), and the Hispanic world (Europe, Africa, Latin America and teh Caribbean). By reading literature, listening to music and discussing film, cultural production and diverse textual constructions, the course will foster a space for deep reflection about language, culture adn nation
+The concept of nation and language have been connected since its inception. In fact, some scholars argue that the imagined communit we call nation is only connected by language in the form of media: news papers, news shows and radio. In this course we will discuss the concept of nation and its connection with language as both a system of sounds and symbols, and a set of creative, communicative and organizing skills that allow for human communication and interaction. Likewise, we will take a comparative approach as we will be going through diverse cultures and nations in regions such as Asia (with Japan), the Phrancophone world (Europe, Africa and the Caribbean), and the Hispanic world (Europe, Africa, Latin America and teh Caribbean). By reading literature, listening to music and discussing film, cultural production and diverse textual constructions, the course will foster a space for deep reflection about language, culture and `nation`
 
 # Student Learning Outcomes
 
@@ -66,9 +66,13 @@ There will be several
 [ˆ1]: This video is available in the library
 [ˆ2]: New reading
 
+# Why is it not working
+
 # Additional instructions
 ----
 ...Please come home and be ready. Use the following formula: 
 ```x = y 
 var(love)
-love = 1 + 1```
+love = 1 + 1````
+
+----
