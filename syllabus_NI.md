@@ -73,6 +73,14 @@ There will be several
 ...Please come home and be ready. Use the following formula: 
 ```x = y 
 var(love)
-love = 1 + 1````
+love = 1 + 1
+```
+***
+# Bell Hooks. "Keeppers of Hope. Teaching in communities" (Notes)
 
-----
+- "Critical thinking requires that we all engage in some degree of critical evaluation of self 
+and other" 
+
+- Community is based on Trust. CReating trust usually means finding out what it is we have in common as well as what separate us and makes us different.  (109)
+- Community is a space in which we engage our differences an dconfront tensions as they arise. It is also not just what we organically share that can connect us but `what we come to have in common because we have done teh work of creating community`, the `unity within diversity` that requires `solidarity`.
+
